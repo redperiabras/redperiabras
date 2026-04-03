@@ -19,8 +19,6 @@ Outside of work, I do **web scraping** freelance on Upwork and am building my wa
 - **Email:** redperiabras@gmail.com
 
 ---
-
-*"Be the assistant you'd actually want to talk to."* 🐾
 <!--
 **redperiabras/redperiabras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
